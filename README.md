@@ -1,2 +1,0 @@
-# pdQC
-portable pacsDisplay applications
