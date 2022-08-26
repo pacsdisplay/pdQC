@@ -6,13 +6,13 @@
 #  and verify grayscale calibration.                                    #
 #                                                                       #
 #                           N. Bevins                                   #
-#                           May 2021                                    #
+#                           Jul 2022                                    #
 #                                                                       #
 #########-#########-#########-#########-#########-#########-#########-###
 #                                                                       #
 #  GENERAL PUBLIC LICENSE:                                              #
 #  HFHS-pacsDisplay                                                     #
-#  Copyright (C) 2021  Henry Ford Health System                         #
+#  Copyright (C) 2022  Henry Ford Health		                        #
 #########-#########-#########-#########-#########-#########-#########-###
 #                                                                       #
 #                           pdQC usage                                  #
@@ -33,6 +33,6 @@
 #        prohibit running from a USB memory device.                     #
 #        In this case copy the pdQC folder to the workstation.          #
 #        If this is also prohibited, you will need to contact the       #
-#        system administrator to arrange adjust the system settings.    #
+#        system administrator to adjust the system settings.		    #
 #                                                                       #
 #########-#########-#########-#########-#########-#########-#########-###
